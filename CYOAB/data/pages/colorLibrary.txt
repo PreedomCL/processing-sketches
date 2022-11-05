@@ -1,0 +1,8 @@
+yellow- 255 255 0
+dark green- 0 132 0
+blue- 0 0 255
+text- 200 200 200
+stone- 100 100 100
+brown- 110 90 60
+brown-red- 211 53 0
+‼

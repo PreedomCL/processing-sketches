@@ -1,0 +1,41 @@
+16‼
+                    / \
+    ____            |^|
+   /####\        ___| |
+  /|  _ |\      /     |   ^
+   | |`||  ##   |     |  / \
+           ##   |__[|_| /___\
+    _      ##          /|   |\
+   /O/     ##           |___|
+   /|      ##
+   / \     ###########################
+ 
+   You walk into the town. You need to
+   find a place to sleep. Do you want
+   to rob an old women to pay for
+   lodging, or do you wish to ask the
+   townsfolk about employment options.
+ 
+   enter a to rob the old women
+   enter b to get a job‼
+110 90 60
+110 90 60
+110 90 60
+110 90 60
+110 90 60
+110 90 60
+110 90 60
+110 90 60
+110 90 60
+110 90 60
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200‼
+20‼
+21

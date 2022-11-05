@@ -1,0 +1,33 @@
+14‼
+      /\__/\ 
+     ( \  / ) O<\O
+     | X  X |    |\
+      \ /\ /    / \
+       ```` 
+   
+   You enter the cave and are attacked
+   by a leapard. You defend yourself
+   with you fish and defeat the beast.
+   
+   You exit the cave with the leapard
+   pelt on you back and climb to the
+   summit.
+ 
+   enter a to continue‼
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+255 0 0
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200‼
+18‼
+18

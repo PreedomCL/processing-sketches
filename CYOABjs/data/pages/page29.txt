@@ -1,0 +1,33 @@
+29‼
+   ______   ______
+  /______\ /______\
+   |__O_|   |__O_|
+   |____|   |____|
+ 
+   You walk to the market and find
+   a stand where you can sell your
+   fish. The merchant gives a few
+   copper pieces. Do you wish to
+   spend them on a hamburger or to buy
+   a room for the night at the local
+   inn?
+ 
+   enter a to buy the hamburger
+   enter b to buy a room‼
+211 53 0
+211 53 0
+110 90 60
+110 90 60
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200‼
+32‼
+31

@@ -1,0 +1,29 @@
+31‼
+       [INN]
+    _____|_____
+   /     _     \
+   | [] [_] [] |
+   |___________|
+ 
+   You buy a room at the local inn and
+   sleep for the night.
+ 
+   You found a place to stay and your
+   story is over.
+ 
+   enter a to restart‼
+255 0 0
+110 90 60
+110 90 60
+100 100 100
+100 100 100
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200‼
+0‼
+0

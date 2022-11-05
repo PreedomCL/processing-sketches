@@ -1,0 +1,39 @@
+32‼
+      ________
+     /________\
+     ()()()()()
+     \________/
+ 
+   You buy yourself a big jucy
+   hamburger. You take a great big
+   bite and swallow, pleased with
+   your decision. Later that night,
+   while your trying to find a place
+   to stay, you feel a pain in your
+   stomache. You begin to feel light
+   headed and your faint.
+ 
+   You died of food poisoning.
+ 
+   enter a to restart
+   enter b to go back a step‼
+110 90 60
+110 90 60
+211 53 0
+110 90 60
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200‼
+0‼
+29

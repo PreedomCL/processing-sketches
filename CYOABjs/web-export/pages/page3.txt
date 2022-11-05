@@ -1,0 +1,52 @@
+3‼
+               __
+              /  |
+          () /   |
+          |\/    |  
+_____||___/\||   |     
+-----||-----||   |        
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     ||     ||   |          
+     ||     ||   J             o<     
+     ||     ||   ____    >o       
+     ||     || \/   *\         (?#)<
+_____||     || /\____/ ________
+       \____||________/        \______
+        
+   You find a fishing rod next to the
+   pond and pick it up. You then walk
+   to the edge of the peer and peek 
+   into the water. You see that there
+   are some small fish, but your eyes
+   are drawn to a gaint fish resting
+   right beneath you.
+   
+   enter a to hook the giant fish
+   enter b to hook a smaller fish‼
+110 90 60
+110 90 60
+110 90 60
+110 90 60
+110 90 60
+110 90 60
+0 0 255
+110 90 60
+110 90 60
+110 90 60
+110 90 60
+110 90 60
+110 90 60
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200‼
+5‼
+6

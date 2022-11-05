@@ -1,0 +1,41 @@
+20‼
+ 
+        \O
+  O      |\
+ /|\    / \   \O
+ / \           |\
+        /  /  / \
+      ()---
+        \  \
+ 
+   You brutally rob the old women, but
+   before you are able to find lodging
+   the townsfolk surround you and
+   begin throwing stones at you. One
+   fatally hits you on the head.
+   
+   You are dead.
+   
+   enter a to restart
+   enter b to go back a step‼
+100 100 100
+100 100 100
+100 100 100
+100 100 100
+100 100 100
+255 0 0
+255 0 0
+255 0 0
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200
+200 200 200‼
+0‼
+16
